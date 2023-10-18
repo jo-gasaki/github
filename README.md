@@ -1,3 +1,3 @@
 # github-exercise
 
-see you
+変更しました。
