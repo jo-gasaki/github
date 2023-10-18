@@ -1,3 +1,3 @@
 # github-exercise
 
-hello github
+see you
